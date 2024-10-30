@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: w0ygcs1wj-python-repository
+spec:
+  url: https://github.com/chetna14manku-org/w0ygcs1wj-python
